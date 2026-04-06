@@ -64,6 +64,7 @@ Final Clean Response
 * **LangGraph**
 * **FAISS / Vector DB**
 * **SerpAPI (Google Search API)**
+* **Hugging face API
 * **Requests**
 * **dotenv**
 
